@@ -1,4 +1,4 @@
-# Awesome iOS
+# Awesome iOS ✨
 
 A curated list of awesome Swift Projects.
 
